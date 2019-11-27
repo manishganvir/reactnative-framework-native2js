@@ -27,4 +27,4 @@ cd ..../Build/Products/Release-iphonesimulator/
 
 find . -name \*.framework -exec cp -R {} /Projects/git/reactnative-bridge-example/example-rn-app/example-rn-app/ \;
 
-# Run the app  example-rn-app/example-rn-app.xcodeproj/
+## Run the app  example-rn-app/example-rn-app.xcodeproj/
