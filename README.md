@@ -1,5 +1,5 @@
 # reactnative-framework-native2js
-An example which shows how one can invoke JS code from a native ios framework
+An example which shows how one can invoke JS (react native) code from a native ios framework
 
 ## Install
 cd example
