@@ -1,0 +1,6 @@
+framework module example_rn_framework {
+  umbrella header "example_rn_framework.h"
+
+  export *
+  module * { export * }
+}
